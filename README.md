@@ -17,6 +17,6 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![nextdotjs](https://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/-vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
 
 
